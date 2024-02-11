@@ -43,11 +43,11 @@ a:focus {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: papayawhip;
+  background-color: rgb(31, 201, 172);
   box-sizing: border-box;
   width: 100px;
   height: 100px;
-  border: 1px solid #444;
+  border: 1px solid #143861;
 }
 
 ul {
